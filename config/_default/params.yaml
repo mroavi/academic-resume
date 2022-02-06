@@ -5,6 +5,7 @@
 
 # Appearance
 
+# Choose from  `default`, `minimal`, `ocean`, `forest`, `coffee`, `dark`, `1950s` or `mrv`.
 theme: minimal
 day_night: true
 font: ''
