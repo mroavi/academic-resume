@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3378678.3397528'
 url_code: ''
 url_dataset: ''
 url_poster: ''
