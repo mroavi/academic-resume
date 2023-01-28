@@ -18,7 +18,7 @@ bio: My research interests include probabilistic graphical models, Bayesian lear
 
 # Interests to show in About widget
 interests:
-- Bayesian learning
+- Bayesian inference
 - Linux
 - Open-source software
 - Tennis
