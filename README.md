@@ -1,5 +1,7 @@
 Source code for my academic resume available at https://mroavi.github.io/
 
+matbesancon's YouTube tutorial : https://www.youtube.com/live/X4KzvWMKYaY?feature=share
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
