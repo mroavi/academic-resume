@@ -14,7 +14,7 @@ organizations:
   url: https://www.tue.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include probabilistic graphical models, Bayesian learning and robotics.
+bio: My research interests include probabilistic graphical models, open-source software and robotics.
 
 # Interests to show in About widget
 interests:
