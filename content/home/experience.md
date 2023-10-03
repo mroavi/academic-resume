@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Docent
+    company: Fontys University of Applied Sciences
+    company_url: 'fontys.nl/en'
+    company_logo: fontys
+    location: Eindhoven, The Netherlands
+    date_start: '2023-08-01'
+    date_end: ''
+    description: |2-
+        Courses:
+        
+        * Information and Communication Technology - Semester 1
+        
   - title: Teacher
     company: Eindhoven University of Technology
     company_url: 'tue.nl'
