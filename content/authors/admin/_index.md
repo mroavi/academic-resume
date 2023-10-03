@@ -71,14 +71,14 @@ email: ""
 highlight_name: true
 ---
 
-Martin Roa-Villescas received his B.Sc. degree in Electronic Engineering from
-the National University of Colombia, Manizales, Colombia in 2010, and his M.Sc.
-degree in Embedded Systems from the Eindhoven University of Technology (TU/e),
-Eindhoven, The Netherlands, in 2013. He is currently pursuing the PhD degree in
-Bayesian Machine Learning with a special emphasis on education at TU/e. From
-2013 to 2018, he worked as an embedded software designer in Philips Research,
-Eindhoven, The Netherlands. His research interests include probabilistic
-graphical models, probabilistic programming, and robotics.
+Martin Roa-Villescas earned his B.Sc. degree in Electronic Engineering from
+the National University of Colombia (UNAL) in Manizales, Colombia, in 2010. He
+received his M.Sc. degree in Embedded Systems from Eindhoven University of
+Technology (TU/e) in Eindhoven, The Netherlands, in 2013. Currently, he is
+pursuing a Ph.D. degree in Bayesian Machine Learning at TU/e. Between 2013 and
+2018, he served as an embedded software designer at Philips Research in
+Eindhoven, The Netherlands. His research interests encompass probabilistic
+graphical models, open-source software, and robotics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
