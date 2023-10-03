@@ -40,7 +40,7 @@ experience:
     company_logo: tue
     location: Eindhoven, The Netherlands
     date_start: '2020-02-01'
-    date_end: ''
+    date_end: '2023-07-31'
     description: |2-
         Courses:
         
@@ -53,7 +53,7 @@ experience:
     company_logo: tue
     location: Eindhoven, The Netherlands
     date_start: '2018-02-01'
-    date_end: ''
+    date_end: '2023-07-31'
     description: |3-
         Courses:
 
