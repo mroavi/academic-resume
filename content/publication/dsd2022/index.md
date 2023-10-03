@@ -24,7 +24,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2022 25th Euromicro Conference on Digital System Design (DSD)*
-publication_short: In *DSD '22*
+publication_short: In *DSD'22*
 
 abstract: One prominent method to perform inference on probabilistic graphical models is the *probability propagation in trees of clusters* (PPTC) algorithm. In this paper, we demonstrate the use of *partial evaluation*, an established technique from the compiler domain, to improve the performance of online Bayesian inference using the PPTC algorithm in the context of observed evidence. We present a metaprogramming-based method to transform a base program into an optimized version by precomputing the static input at compile time while guaranteeing behavioral equivalence. We achieve an inference time reduction of 21% on average for the Promedas benchmark.
 
