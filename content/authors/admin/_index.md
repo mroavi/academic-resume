@@ -6,10 +6,14 @@ title: Martin Roa-Villescas
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Docent / Ph.D. candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
+
+- name: Fontys University of Applied Sciences
+  url: https://www.fontys.nl/en
+
 - name: Eindhoven University of Technology
   url: https://www.tue.nl
 
